@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>GameGo Launcher</title>
+<style>
+/* Стили сайта */
+</style>
+</head>
+<body>
+<h1>GameGo Launcher</h1>
+<p>Скачайте лаунчер!</p>
+<a href="GameGoLauncher.exe" download>Скачать лаунчер</a>
+</body>
+</html>
